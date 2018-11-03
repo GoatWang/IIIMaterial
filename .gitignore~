@@ -4,6 +4,3 @@ df_realestate.csv
 df_realestate_processed.csv
 */__pycache__/*
 *.tex
-latex_generator/*.log
-latex_generator/*.out
-latex_generator/*.aux
