@@ -1,6 +1,0 @@
-.ipynb_checkpoints/*
-.ipynb_checkpoints
-df_realestate.csv
-df_realestate_processed.csv
-*/__pycache__/*
-*.tex

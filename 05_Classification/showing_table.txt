@@ -1,0 +1,9 @@
+showing table
+
+<table>
+<tr><td>Outlook</td><td></td><td></td><td>Tempreature</td><td></td><td></td><td>Humidity</td><td></td><td></td><td>Windy</td><td></td><td></td></tr>
+<tr><td></td><td>Condition P</td><td>Condition N</td><td></td><td>Condition P</td><td>Condition N</td><td></td><td>Condition P</td><td>Condition N</td><td></td><td>Condition P</td><td>Condition N</td></tr>
+<tr><td>sunny</td><td>2/9</td><td>3/5</td><td>hot</td><td>2/9</td><td>2/5</td><td>high</td><td>3/9</td><td>4/5</td><td>true</td><td>3/9</td><td>3/5</td></tr>
+<tr><td>overcast</td><td>4/9</td><td>0</td><td>mild</td><td>4/9</td><td>2/5</td><td>normal</td><td>6/9</td><td>1/5</td><td>false</td><td>6/9</td><td>2/5</td></tr>
+<tr><td>rain</td><td>3/9</td><td>2/5</td><td>cool</td><td>3/9</td><td>1/5</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>

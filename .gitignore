@@ -7,3 +7,4 @@ df_realestate_processed.csv
 latex_generator/*.log
 latex_generator/*.out
 latex_generator/*.aux
+*/main*files/*
