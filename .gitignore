@@ -8,3 +8,7 @@ latex_generator/*.log
 latex_generator/*.out
 latex_generator/*.aux
 */main*files/*
+*/practice*/*
+*/practice*
+!*/practice*.pdf
+
