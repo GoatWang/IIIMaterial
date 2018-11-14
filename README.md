@@ -1,7 +1,7 @@
 1. 11/13問卷網址: (disabled)~~https://goo.gl/forms/X0gKPnmTquu9XVBL2~~
 2. 作業: 請自行使用07_RealEstatePractice進行探索分析並做出預測結果，請在同一分jupyter notebook的最上方的block整理出:
     1. 要求項目:
-        - 自行計算出尚未取log的「真實price」跟「預測price」的rmse
+        - 自行計算出尚未取log的「真實total_price」跟「預測total_price」的rmse
         - 整理出使用課程上或課程外學到的哪一些「前處理」、「分群」、「分類」技術
     2. 加分項目:
         - 比較出各分類演算法在這份資料集上適用的差異與心得
