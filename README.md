@@ -6,6 +6,6 @@
     2. 加分項目:
         - 比較出各分類演算法在這份資料集上適用的差異與心得
     3. 資料集:以自己想練習的部分為主，想練習前處理的，可以玩未處理過的資料集(df_realestate.csv)，想多練習model的，可以玩已經做好處理的(df_realestate_processed.csv)。
-    4. 繳交方式: 將repo push到自己的github上，並提供你github中這一個notebook的連結。
+    4. 繳交方式: 將repo push到自己的github上，並提供你github中這一個notebook的連結給統一個負責人，整理完後再轉交給我。
 3. 課程評價結果:
     ![1111資策會機器學習課程回饋](static/1111資策會機器學習課程回饋.png)
