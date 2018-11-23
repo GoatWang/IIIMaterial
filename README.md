@@ -3,6 +3,12 @@
     - python3.6(*do not* use conda, python2.x and python3.7)
 2. clone repo: ```git clone https://github.com/GoatWang/IIIMaterial```
 3. install packages: ```pip install -r requirements.txt```
+    - if you want to learn ML, its recommended to install all this packages in the system python3.6 (not virtualenv).
+    - if you want to install in the virtualenv, make sure your jupyter is install in the system python3.6. Please refer to this [link](https://zhuanlan.zhihu.com/p/33257881), and in the venv:
+    ```
+    (venv)>>> pip install ipykernel
+    (venv)>>> python -m ipykernel install --user --name=IIIMaterial
+    ```
 4. generate practice file:
     1. open jupyter notebook
     2. open practice_generator.ipynb
