@@ -1,6 +1,6 @@
 # 服用方式
 1. prerequisite: 
-    - python3.6(*do not* use conda, python2.x and python3.7)
+    - python3.6 (**do not** use conda, python2.x and python3.7)
 2. clone repo: ```git clone https://github.com/GoatWang/IIIMaterial```
 3. install packages: ```pip install -r requirements.txt```
     - if you want to learn ML, its recommended to install all this packages in the system python3.6 (not virtualenv).
