@@ -1,6 +1,8 @@
 import os
 import re
+# from datetime import datetime
 
+# ct = "".join([s for s in str(datetime.now()) if s not in [":", "-", " ", "."]])
 dirs = [d for d in os.listdir() if bool(re.match('\d+\_.+?', d))]
 for d in dirs: 
     for f in os.listdir(d):
