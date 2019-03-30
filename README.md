@@ -20,11 +20,13 @@
         - so be sure to checkout the changes on main*.ipyne first.
     2. pull repo: ```git pull```
 
-# 0331
-1. 11/13問卷網址: https://forms.gle/fW89X5P27Z7JX9446
+# 0331課後訊息
+1. 問卷網址: https://forms.gle/fW89X5P27Z7JX9446
+2. kaggle競賽: https://www.kaggle.com/t/94b12368cbce4c65a2b4ea4be059e312
+3. 講師自學程式的心路歷程: https://ithelp.ithome.com.tw/articles/10195825
 
 <!-- 
-# 11/11作業
+# 11/11課後訊息
 1. 11/13問卷網址: (disabled)~~https://goo.gl/forms/X0gKPnmTquu9XVBL2~~
 2. 有人問我能不能分享自學程式的心路歷程，[這是我去年底寫的一篇文章](https://ithelp.ithome.com.tw/articles/10195825)，給你們參考。
 2. 作業: 請自行使用07_RealEstatePractice進行探索分析並做出預測結果，請在同一分jupyter notebook的最上方的block整理出:
