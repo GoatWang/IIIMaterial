@@ -21,7 +21,7 @@
     2. pull repo: ```git pull```
 
 # 0331課後訊息
-1. 問卷網址: https://forms.gle/fW89X5P27Z7JX9446
+1. 問卷網址: https://docs.google.com/forms/d/e/1FAIpQLScDHxoRzLMz1UES_xPoq4-ZRPs5EiOvfGc1YzuNlIYiE6n6TA/viewform?usp=sf_link
 2. kaggle競賽: https://www.kaggle.com/t/94b12368cbce4c65a2b4ea4be059e312
 3. 講師自學程式的心路歷程: https://ithelp.ithome.com.tw/articles/10195825
 
