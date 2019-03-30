@@ -20,10 +20,12 @@
         - so be sure to checkout the changes on main*.ipyne first.
     2. pull repo: ```git pull```
 
+
 # 0331課後訊息
 1. 問卷網址: https://docs.google.com/forms/d/e/1FAIpQLScDHxoRzLMz1UES_xPoq4-ZRPs5EiOvfGc1YzuNlIYiE6n6TA/viewform?usp=sf_link
 2. kaggle競賽: https://www.kaggle.com/t/94b12368cbce4c65a2b4ea4be059e312
-3. 講師自學程式的心路歷程: https://ithelp.ithome.com.tw/articles/10195825
+3. kaggle專案網頁成品: http://realestateevaluator-dev.ap-southeast-1.elasticbeanstalk.com/evaluator/
+4. 講師自學程式的心路歷程: https://ithelp.ithome.com.tw/articles/10195825
 
 <!-- 
 # 11/11課後訊息
