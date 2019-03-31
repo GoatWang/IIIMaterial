@@ -12,3 +12,5 @@ latex_generator/*.aux
 */practice*
 !*/practice*.pdf
 
+08_InformationRetreival/alice_mask.png
+08_InformationRetreival/dict.txt
