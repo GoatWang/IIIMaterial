@@ -20,7 +20,15 @@
         - so be sure to checkout the changes on main*.ipyne first.
     2. pull repo: ```git pull```
 
-# 作業
+
+# 0331課後訊息
+1. 問卷網址: https://docs.google.com/forms/d/e/1FAIpQLScDHxoRzLMz1UES_xPoq4-ZRPs5EiOvfGc1YzuNlIYiE6n6TA/viewform?usp=sf_link
+2. kaggle競賽: https://www.kaggle.com/t/94b12368cbce4c65a2b4ea4be059e312
+3. kaggle專案網頁成品: http://realestateevaluator-dev.ap-southeast-1.elasticbeanstalk.com/evaluator/
+4. 講師自學程式的心路歷程: https://ithelp.ithome.com.tw/articles/10195825
+
+<!-- 
+# 11/11課後訊息
 1. 11/13問卷網址: (disabled)~~https://goo.gl/forms/X0gKPnmTquu9XVBL2~~
 2. 有人問我能不能分享自學程式的心路歷程，[這是我去年底寫的一篇文章](https://ithelp.ithome.com.tw/articles/10195825)，給你們參考。
 2. 作業: 請自行使用07_RealEstatePractice進行探索分析並做出預測結果，請在同一分jupyter notebook的最上方的block整理出:
@@ -31,7 +39,7 @@
         - 比較出各分類演算法在這份資料集上適用的差異與心得(20%)
     3. 繳交期限: 11/27(二)
     4. 資料集:以自己想練習的部分為主，想練習前處理的，可以玩未處理過的資料集(df_realestate.csv)，想多練習model的，可以玩已經做好處理的(df_realestate_processed.csv)。
-    5. 繳交方式: 將repo push到自己的github上，並提供你github中這一個notebook的連結給統一個負責人，整理完後再轉交給我。
+    5. 繳交方式: 將repo push到自己的github上，並提供你github中這一個notebook的連結給統一個負責人，整理完後再轉交給我。 -->
 
-# 課程評價結果:
+# 11/11課程評價結果:
 ![1111資策會機器學習課程回饋](static/1111資策會機器學習課程回饋.png)
