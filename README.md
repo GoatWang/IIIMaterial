@@ -15,7 +15,12 @@
     2. (optional) modify practice\*.ipynb to add the date e,g, practice\*\_20181123.ipynb. This can make sure the new practice\*.ipynb file will not cover old one once you want to generate new practice\*.ipynb file 
     3. (optional) open main*.ipynb files to check the answer.
 6. update: once I have modified the main file, you want to update to your code to you should pull the repo. 
-    1. checkout all changes you made in main*.ipynb: ```git checkout */main*``` 
+    1. checkout all changes you made in main*.ipynb: 
+        - if all changes are expected to ignore:
+            ```git checkout .```
+        - if you want to keep some changes:
+            ```git checkout */main*``` 
+            ```git checkout latex_generator/latex_generator.ipynb```
         - Its quite diffcult to solve git conflict in ipython notebook.
         - so be sure to checkout the changes on main*.ipyne first.
     2. pull repo: ```git pull```
