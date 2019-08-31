@@ -18,3 +18,5 @@ venv
 
 
 MNIST_data
+testing_images
+lgb_model.txt
