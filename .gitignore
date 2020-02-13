@@ -14,6 +14,9 @@ latex_generator/*.aux
 !*/practice*.pdf
 venv
 
+
+06_XgbCV/farm_data/lands_pieces_tif_practice/*.npy
+
 08_InformationRetreival/alice_mask.png
 08_InformationRetreival/dict.txt
 07_RealEstatePractice/data
