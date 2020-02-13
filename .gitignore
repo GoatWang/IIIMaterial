@@ -1,5 +1,6 @@
-.ipynb_checkpoints/*
 .ipynb_checkpoints
+.ipynb_checkpoints
+.vscode
 df_realestate.csv
 df_realestate_processed.csv
 */__pycache__/*
@@ -15,7 +16,7 @@ venv
 
 08_InformationRetreival/alice_mask.png
 08_InformationRetreival/dict.txt
-
+07_RealEstatePractice/data
 
 MNIST_data
 testing_images
