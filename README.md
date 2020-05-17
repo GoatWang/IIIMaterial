@@ -29,7 +29,7 @@
 
 # 20200517課後訊息
 1. 問卷地址: https://forms.gle/A2MqRGB54kNHEbpKA
-2. 講師自學程式的心路歷程: https://ithelp.ithome.com.tw/articles/10195825
+2. 非本科系轉職軟體工程師指南: https://medium.com/@jeremy455576/%E9%9D%9E%E6%9C%AC%E7%A7%91%E7%B3%BB%E8%BD%89%E8%81%B7%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%8C%87%E5%8D%97-9c7783190178?source=friends_link&sk=8d0300a984fad9c950526a3a453c35e2
 
 <!-- # 20190901課後訊息
 1. 問卷地址: https://docs.google.com/forms/d/e/1FAIpQLSe0BrMz2vmZW_X0aTY3qClrOKbkjj20Z2kotzuwE6IxbIUDyQ/viewform?usp=sf_link
