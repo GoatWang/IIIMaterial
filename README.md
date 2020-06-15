@@ -28,7 +28,7 @@
 
 
 # 20200517課後訊息
-1. 問卷地址: https://forms.gle/A2MqRGB54kNHEbpKA
+1. 問卷地址: https://forms.gle/V2yDFf2MHS62siuFA
 2. 非本科系轉職軟體工程師指南: https://medium.com/@jeremy455576/%E9%9D%9E%E6%9C%AC%E7%A7%91%E7%B3%BB%E8%BD%89%E8%81%B7%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%8C%87%E5%8D%97-9c7783190178?source=friends_link&sk=8d0300a984fad9c950526a3a453c35e2
 
 <!-- # 20190901課後訊息
@@ -56,5 +56,7 @@
     4. 資料集:以自己想練習的部分為主，想練習前處理的，可以玩未處理過的資料集(df_realestate.csv)，想多練習model的，可以玩已經做好處理的(df_realestate_processed.csv)。
     5. 繳交方式: 將repo push到自己的github上，並提供你github中這一個notebook的連結給統一個負責人，整理完後再轉交給我。 -->
 
-# 11/11課程評價結果:
-![1111資策會機器學習課程回饋](static/1111資策會機器學習課程回饋.png)
+<!-- # 11/11課程評價結果:
+![1111資策會機器學習課程回饋](static/1111資策會機器學習課程回饋.png) -->
+
+
