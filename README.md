@@ -95,11 +95,15 @@
     ```
 
 3. install packages: ```pip install -r requirements.txt```
-    - Please try to install the packages in the virtualenv, make sure your jupyter is install in the system. and type the following command in the venv. For more information, please refer to this [link](https://zhuanlan.zhihu.com/p/33257881)):
+Please try to install the packages in the virtualenv, make sure your jupyter is install in the system. and type the following command in the venv. For more information, please refer to this [link](https://zhuanlan.zhihu.com/p/33257881)):
+
+4. install the venv in the jupyter kernel
     ```
     (venv)> pip install ipykernel
     (venv)> python -m ipykernel install --user --name=IIIMaterial
     ```
+    ![jupyter_kernel.PNG](./static/jupyter_kernel.PNG)
+
 
 ## Usage of this repo
 This repo is used to introduce the maching learning algorithms in the aspect of theory and implementation. In order to practice writing the code more efficiently. The repo will not ask you to write the code from the start. Instead, some important part of the code will be removed automatically for you to do the practice.
