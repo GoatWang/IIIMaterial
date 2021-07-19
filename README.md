@@ -1,7 +1,7 @@
 # 服用方式
 ## 先備知識: Numpy & Pandas
 根據之前學長姊的評價這堂課的速度會與難度是前面其他課程的兩倍以上，**請務必複習好Numpy與Pandas的索引方式**。
-![pandas_numpy_helping.PNG](static\pandas_numpy_helping.PNG)
+![pandas_numpy_helping.PNG](./static/pandas_numpy_helping.PNG)
 
 ## prerequisite: git, python3.6, and jupyter.
 1. Installation Check
@@ -122,7 +122,7 @@ This repo is used to introduce the maching learning algorithms in the aspect of 
     2. pull repo: ```git pull```
 
 ## Note1: 課程評價
-![20200615資策會機器學習課程回饋.png](static\20200615資策會機器學習課程回饋.png)
+![20200615資策會機器學習課程回饋.png](./static/20200615資策會機器學習課程回饋.png)
 ## Note2: Jupyter 快捷鍵
 - shift-enter: 跑程式
 - A: 上面增加一格
