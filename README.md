@@ -1,11 +1,11 @@
 # 服用方式
 ## 先備知識: Numpy & Pandas
-根據之前學長姊的評價這堂課的速度會與難度是前面其他課程的兩倍以上，**請務必複習好Numpy與Pandas的索引方式**。
+根據之前學長姊的評價這堂課的速度會與難度是前面其他課程的兩倍以上，**請務必複習好Numpy與Pandas的索引方式**，這是他們google表單留下的建議。
 ![pandas_numpy_helping.PNG](./static/pandas_numpy_helping.PNG)
 
 ## prerequisite: git, python3.6, and jupyter.
-1. Installation Check
-    1. git
+### Installation Check
+    - git
     ```
     > git
     usage: git [--version] [--help] [-C <path>] [-c name=value]
@@ -16,7 +16,7 @@
     ......
     ```
 
-    2. python 3.6 (should be 3.6 and **do not** use conda, VS or python2.x): if you have installed conda or other version of python, you should modify **PATH** Variable in **系統環境變數** to keep using the right version of python. To open **系統環境變數** GUI in windows 10, please refer to this [link](http://kaiching.org/pydoing/py-guide/how-to-set-the-path-environment-variable-of-python-on-windows-10.html). You can remove all paths with other version of python under **PATH** Variable.
+    - python 3.6 (should be 3.6 and **do not** use conda, VS or python2.x): if you have installed conda or other version of python, you should modify **PATH** Variable in **系統環境變數** to keep using the right version of python. To open **系統環境變數** GUI in windows 10, please refer to this [link](http://kaiching.org/pydoing/py-guide/how-to-set-the-path-environment-variable-of-python-on-windows-10.html). You can remove all paths with other version of python under **PATH** Variable.
     ```
     > python -V
     Python 3.6.X
@@ -24,7 +24,7 @@
     pip 10.0.1 from C:\Users\<UserName>\AppData\Local\Programs\Python\Python35\lib\site-packages\pip (python 3.6)
     ```
 
-    3. jupyter
+    - jupyter
     ```
     >>> jupyter --version # 有數字跑出來即可
     jupyter core     : 4.7.1
@@ -40,8 +40,8 @@
     traitlets        : 5.0.5
     ```
 
-2. Istallation Guide (If you have not installed above software)
-    1. Git
+### Istallation Guide (If you have not installed above software)
+    - Git
         1. go to [official site](https://git-scm.com/download/win)
         2. download executable
         3. open executabled: Always "Next"
@@ -55,7 +55,7 @@
                 <command> [<args>]
             .........
             ```
-    2. Python3.6
+    - Python3.6
         1. go to [python 3.6.4 download page](https://www.python.org/downloads/release/python-364/)(official site)
         ![download](./static/Download364.PNG)
         2. Download "Windows x86-64 executable installer"
@@ -69,7 +69,7 @@
             >>>pip -V
             pip 9.0.1 from C:\.......\pip (python 3.6)
             ```
-    3. Jupyter:
+    - Jupyter:
         1. Open terminal and type:
             ```
             > pip install --upgrade pip
@@ -123,6 +123,7 @@ This repo is used to introduce the maching learning algorithms in the aspect of 
 
 ## Note1: 課程評價
 ![20200615資策會機器學習課程回饋.png](./static/20200615資策會機器學習課程回饋.png)
+
 ## Note2: Jupyter 快捷鍵
 - shift-enter: 跑程式
 - A: 上面增加一格
