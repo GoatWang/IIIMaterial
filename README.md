@@ -81,25 +81,25 @@
             ```
 
 ## Python Packages Installation
-    1. clone repo: ```git clone https://github.com/GoatWang/IIIMaterial```
+1. clone repo: ```git clone https://github.com/GoatWang/IIIMaterial```
 
-    2. change directory into the repo: ```cd IIIMaterial```
+2. change directory into the repo: ```cd IIIMaterial```
 
-    3. Build virtual environment:
-        ```
-        > pip install virtualenv # install virtualenv python package 
-        > virtualenv venv # build virtual environment with name venv
-        > venv\Scripts\activate # activate the virtual environment
-        (venv)> pip -V # check python location
-        pip 21.1.2 from Path\To\IIIMaterial\venv\lib\site-packages\pip (python 3.6)
-        ```
+3. Build virtual environment:
+    ```
+    > pip install virtualenv # install virtualenv python package 
+    > virtualenv venv # build virtual environment with name venv
+    > venv\Scripts\activate # activate the virtual environment
+    (venv)> pip -V # check python location
+    pip 21.1.2 from Path\To\IIIMaterial\venv\lib\site-packages\pip (python 3.6)
+    ```
 
-    3. install packages: ```pip install -r requirements.txt```
-        - Please try to install the packages in the virtualenv, make sure your jupyter is install in the system. and type the following command in the venv. For more information, please refer to this [link](https://zhuanlan.zhihu.com/p/33257881)):
-        ```
-        (venv)> pip install ipykernel
-        (venv)> python -m ipykernel install --user --name=IIIMaterial
-        ```
+3. install packages: ```pip install -r requirements.txt```
+    - Please try to install the packages in the virtualenv, make sure your jupyter is install in the system. and type the following command in the venv. For more information, please refer to this [link](https://zhuanlan.zhihu.com/p/33257881)):
+    ```
+    (venv)> pip install ipykernel
+    (venv)> python -m ipykernel install --user --name=IIIMaterial
+    ```
 
 ## Usage of this repo
 This repo is used to introduce the maching learning algorithms in the aspect of theory and implementation. In order to practice writing the code more efficiently. The repo will not ask you to write the code from the start. Instead, some important part of the code will be removed automatically for you to do the practice.
