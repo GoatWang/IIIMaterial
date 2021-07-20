@@ -41,44 +41,44 @@
     ```
 
 ### Istallation Guide (If you have not installed above software)
-    - Git
-        1. go to [official site](https://git-scm.com/download/win)
-        2. download executable
-        3. open executabled: Always "Next"
-        4. testing
-            ```
-            > git 
-            usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-                [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-                [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-                [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-                <command> [<args>]
-            .........
-            ```
-    - Python3.6
-        1. go to [python 3.6.4 download page](https://www.python.org/downloads/release/python-364/)(official site)
-        ![download](./static/Download364.PNG)
-        2. Download "Windows x86-64 executable installer"
-        3. Open installer
-            1. (very important!!) check "Add Python 3.6 to PATH" at bottom
-            ![download](./static/installation.PNG)
-        4. testing:
-            ```
-            >>>python -V
-            Python 3.6.4
-            >>>pip -V
-            pip 9.0.1 from C:\.......\pip (python 3.6)
-            ```
-    - Jupyter:
-        1. Open terminal and type:
-            ```
-            > pip install --upgrade pip
-            > pip install jupyter
-            ```
-        2. testing
-            ```
-            > jupyter notebook
-            ```
+- Git
+    1. go to [official site](https://git-scm.com/download/win)
+    2. download executable
+    3. open executabled: Always "Next"
+    4. testing
+        ```
+        > git 
+        usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+            <command> [<args>]
+        .........
+        ```
+- Python3.6
+    1. go to [python 3.6.4 download page](https://www.python.org/downloads/release/python-364/)(official site)
+    ![download](./static/Download364.PNG)
+    2. Download "Windows x86-64 executable installer"
+    3. Open installer
+        1. (very important!!) check "Add Python 3.6 to PATH" at bottom
+        ![download](./static/installation.PNG)
+    4. testing:
+        ```
+        >>>python -V
+        Python 3.6.4
+        >>>pip -V
+        pip 9.0.1 from C:\.......\pip (python 3.6)
+        ```
+- Jupyter:
+    1. Open terminal and type:
+        ```
+        > pip install --upgrade pip
+        > pip install jupyter
+        ```
+    2. testing
+        ```
+        > jupyter notebook
+        ```
 
 ## Python Packages Installation
 1. clone repo: ```git clone https://github.com/GoatWang/IIIMaterial```
