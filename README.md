@@ -1,11 +1,35 @@
 # 服用方式
 ## 先備知識: Numpy & Pandas
-根據之前學長姊的評價這堂課的速度會與難度是前面其他課程的兩倍以上，**請務必複習好Numpy與Pandas的索引方式**，這是他們google表單留下的建議。
+根據之前學長姊的評價這堂課的速度會與難度是前面其他課程的兩倍以上，**請務必複習好Numpy與Pandas**，這是他們google表單留下的建議。
 ![pandas_numpy_helping.PNG](./static/pandas_numpy_helping.PNG)
+如果沒有複習的方向可以試著找尋以並回答下問題的答案:
+- Numpy 
+    1. 假設`X`是100x3的Array，請問100與3分別是row的數量還是column的數量。
+    2. 假設`X`是100x3的Array，請問如何索引出第50到第60個row中的第1個column。
+    3. 如何使用numpy創建3x3全部為1的Array。
+    4. 如何使用numpy創建3x3值介於0~1的亂數Array。
+    5. 假設`X`是3x3值介於0~1亂數Array，如何使用numpy在`X`中索引出值大於0.5的元素。
+    6. 承上，如何使用numpy取得這些元素的row跟column索引值(indices)
+    7. 如何使用numpy去排序10個元素的Array。
+    8. 承上，如何取得排序後的每個元素在原本Array的索引值(indices)。
+    9. 假設`X`是100x5值介於0~1亂數Array，如何找出每一個row中最大值的索引值?
+    10. 如果`A=np.array([1, 2, 3])`，那`A*2`等於?
+    11. 如果`A=np.array([1, 2, 3])`，那`A*A`等於?
+    12. 如果`A=np.array([1, 2, 3])`，那`A.dot(A)`等於?
+    13. 如果`A=np.array([1, 4, 9])`，如何使用numpy對A中的每一個元素開平方根?
+- Pandas
+    1. loc與iloc的差別在哪?
+    2. loc[A, B]中的A與B分別是索引什麼?
+    3. 若df是一個學生資料的DataFrame，裡面有Gender(性別)跟Score(分數)的欄位，如何索引出Gender欄位為Male的所有row?
+    3. 若df是一個DataFrame，如何使用for迴圈做iterration?
+    4. 若df是一個DataFrame，如何使用apply對每一個row做iterration?
+    5. 若df是一個學生資料的DataFrame，裡面有Gender(性別)跟Score(分數)的欄位，請問如何透過groupby計算不同Gender的人數與平均分數?
+
+
 
 ## prerequisite: git, python3.6, and jupyter.
 ### Installation Check
-    - git
+- git
     ```
     > git
     usage: git [--version] [--help] [-C <path>] [-c name=value]
@@ -16,7 +40,7 @@
     ......
     ```
 
-    - python 3.6 (should be 3.6 and **do not** use conda, VS or python2.x): if you have installed conda or other version of python, you should modify **PATH** Variable in **系統環境變數** to keep using the right version of python. To open **系統環境變數** GUI in windows 10, please refer to this [link](http://kaiching.org/pydoing/py-guide/how-to-set-the-path-environment-variable-of-python-on-windows-10.html). You can remove all paths with other version of python under **PATH** Variable.
+- python 3.6 (should be 3.6 and **do not** use conda, VS or python2.x): if you have installed conda or other version of python, you should modify **PATH** Variable in **系統環境變數** to keep using the right version of python. To open **系統環境變數** GUI in windows 10, please refer to this [link](http://kaiching.org/pydoing/py-guide/how-to-set-the-path-environment-variable-of-python-on-windows-10.html). You can remove all paths with other version of python under **PATH** Variable.
     ```
     > python -V
     Python 3.6.X
@@ -24,7 +48,7 @@
     pip 10.0.1 from C:\Users\<UserName>\AppData\Local\Programs\Python\Python35\lib\site-packages\pip (python 3.6)
     ```
 
-    - jupyter
+- jupyter
     ```
     >>> jupyter --version # 有數字跑出來即可
     jupyter core     : 4.7.1
